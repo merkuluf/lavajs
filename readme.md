@@ -24,7 +24,7 @@ LavaPayments is a JavaScript library designed to interact with the Lava API, fac
 To install LavaPayments, you need to have Node.js installed. You can then use npm or yarn to install the package.
 
 ```sh
-npm install lava-payments
+npm install lavapayments
 ```
 
 or
@@ -40,7 +40,7 @@ yarn add lava-payments
 To start using LavaPayments, you need to create an instance of the `LavaPayments` class by providing your API key.
 
 ```javascript
-import LavaPayments from 'lava-payments'
+import LavaPayments from 'lavapayments'
 
 const lavaPayments = new LavaPayments('your-api-key')
 ```
