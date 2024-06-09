@@ -1,16 +1,20 @@
 {
-  "name": "lavapayments",
-  "version": "1.0.0",
-  "description": "a lava.top api wrapper",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "lava",
-    "payment",
-    "wrapper"
-  ],
-  "author": "merkuluf",
-  "license": "ISC"
+    "name": "lavapayments",
+    "version": "1.0.0",
+    "description": "a lava.top api wrapper",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/merkuluf/lavajs"
+    },
+    "keywords": [
+        "lava",
+        "payment",
+        "wrapper"
+    ],
+    "author": "Maksim Merkulov (https://github.com/merkuluf)",
+    "license": "ISC"
 }
