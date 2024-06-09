@@ -1,6 +1,6 @@
 {
     "name": "lavapayments",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "a lava.top api wrapper",
     "main": "index.js",
     "scripts": {
@@ -15,6 +15,7 @@
         "payment",
         "wrapper"
     ],
+    "type": "module",
     "author": "Maksim Merkulov (https://github.com/merkuluf)",
     "license": "ISC"
 }
