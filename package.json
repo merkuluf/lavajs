@@ -1,0 +1,16 @@
+{
+  "name": "lavapayments",
+  "version": "1.0.0",
+  "description": "a lava.top api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lava",
+    "payment",
+    "wrapper"
+  ],
+  "author": "merkuluf",
+  "license": "ISC"
+}
