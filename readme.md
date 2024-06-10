@@ -30,7 +30,7 @@ npm install lavapayments
 or
 
 ```sh
-yarn add lava-payments
+yarn add lavapayments
 ```
 
 ## Usage

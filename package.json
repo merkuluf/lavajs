@@ -1,6 +1,6 @@
 {
     "name": "lavapayments",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "a lava.top api wrapper",
     "main": "index.js",
     "scripts": {
