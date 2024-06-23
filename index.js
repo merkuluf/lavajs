@@ -19,6 +19,17 @@ class LavaPayments {
         return this.handleResponse(response)
     }
 
+    async getWebhooks() {
+        const response = await fetch(`${this.baseUrl}/${API_V1}/webhooks`, {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Api-Key': this.apiKey,
+            },
+        })
+        return this.handleResponse(response)
+    }
+
     async getSales() {
         const response = await fetch(`${this.baseUrl}/${API_V1}/sales`, {
             method: 'GET',
